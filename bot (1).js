@@ -31,4 +31,4 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
  
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NTA4NzM5ODgxMTY2NTY5NDcz.DsDoug.OW8asOh49Ry96KV9Kky9ljU5R9A);
